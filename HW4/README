@@ -1,2 +1,14 @@
 Homework 4 Files, Models, and textures
 CodePen Link: https://codepen.io/UnciaCoding/pen/raNoNXr
+A homework that explored the 3D modeling capabilities of THREE.js in javascript
+The Homework assignment required me to:
+  - Make a room with 3 walls, a floor, and a ceiling. Each wall, ceiling, and floor either needed a specific color or texture
+  - use THREE.shape to create custom geometry for at least one item in the room. For this part of the assignment, 
+    I chose to create a series of rectangles with rounded corners as well as rectangular pegs in order to create the shape
+    of a couch. I intend to return to this program at a later date with further knowledge to attempt to create unique functions
+    to make the creation of the shaped easier and more efficient. Code is rather long
+  - Import at least one texture (done through the couch and the floor) and at least one model
+  - Have at least two light sources within the room, set to specific locations, and implement UI to toggle the lights on and off
+  - Ensure the relevant objects receive and cast shadows
+  - Implement orbital controls so the viewer can move, zoom, and rotate the camera
+I attempted to create a cozy candle lit living room that I would like to read in, were I a low-poly model in a video game. 
