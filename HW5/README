@@ -1,0 +1,25 @@
+HW 5 Making a Glass Snowglobe
+Codepen Link: https://codepen.io/UnciaCoding/pen/MYYbxvQ
+Homework that focused on the application of reflection, refraction, and dynamic model, texture, and lighting settings to create more advanced scenes in THREE.js
+HW 5 Required me to Create a glass snowglobe, with the following requirements:
+  - Glass sphere that has refraction and reflectivity properties
+  - Base that supports the sphere and has a texture applied to it
+  - Walls and Planes:
+    - At least one Wall behind the snow globe
+    - A plane that serves as the ground under the globe
+    - Wall and floor should have materials/textures that add to the scene 
+    - Both should display shadows from the globe
+  - Create a scene inside the snow globe
+    - At least Two distinct models
+    - Import textures and materials as needed
+    - Shading
+  - Navigation + keyboard controls
+    - Implement orbit controls
+    - Keyboard controls with arrow keys that:
+      - Rotate the scene left and right
+      - Tilt the scene up and down
+      - '=' to zoom in, '-' to zoom out
+  - OPTIONAL (Bonus): Advanced Visuals
+    - Add dynamic elements such as falling snow
+    - Implement advanced Lighting effects (like sunset or dynamic color changes)
+    - Create simple UI like buttons or text to enhance user interaction
