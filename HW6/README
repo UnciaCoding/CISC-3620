@@ -1,0 +1,17 @@
+HW 6: Creating a Scene
+Codepen Link: https://codepen.io/UnciaCoding/pen/LEEOqww
+Final homework assignment of the class in which the expectation is for students to utilize all the concepts learned throughout the course. The assignment is cummulative. 
+Students are given free reign to create a scene of their choosing on their own or in a group. Said scene must either be interactive, or must be animated.
+Scene must utilize as many as possible, but at least 5 of the graphics concepts below (and one must be either interaction or animation):
+  - Hierarchical Modeling
+  - Lighting and shading
+  - Cameras and Projections
+  - Materials and Texture-mapping
+  - Importing external Models
+  - particle systems/effects
+  - user interaction
+  - animation (using delta time)
+  - Physics (using Cannon.js)
+  - Custom shaders
+If animation is done, it must have at least 2 independently moving objects
+
